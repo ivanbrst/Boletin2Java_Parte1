@@ -1,3 +1,6 @@
+package paquete;
+
+
 import java.util.Scanner;
 
 public class Ejercicio1 {
@@ -7,6 +10,7 @@ public class Ejercicio1 {
 		int n;
 		int m;
 		int r;
+		
 		
 		Scanner a=new Scanner(System.in);
 		

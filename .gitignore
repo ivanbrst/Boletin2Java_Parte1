@@ -1,2 +1,4 @@
 *.class
 *.jar
+/Boletin2JavaParte1/nbproject/private/
+/Boletin2JavaParte1/build/
