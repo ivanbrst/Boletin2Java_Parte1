@@ -9,6 +9,7 @@ public class Ejercicio2 {
 		double valor;
 		double precio;
 		
+		
 		precio=0;
 		
 		Scanner a=new Scanner(System.in);

@@ -1,4 +1,4 @@
-package paquete;
+package boletin2java_parte1;
 
 
 import java.util.Scanner;
