@@ -13,8 +13,40 @@ public class Ejercicio4{
 		
 		
 		
+		switch(n){
 		
+			case 1:{System.out.println("O día elexido é o Luns");
+						break;
+						}
+						
+			case 2:{System.out.println("O día elexido é o Martes");
+						break;
+						}
+						
+			case 3:{System.out.println("O día elexido é o Mércores");
+						break;
+						}
+						
+			case 4:{System.out.println("O día elexido é o Xoves");
+						break;
+						}
+						
+			case 5:{System.out.println("O día elexido é o Venres");
+						break;
+						}
+			case 6:{System.out.println("O día elexido é o Sábado");
+						break;
+						}
+			case 7:{System.out.println("O día elexido é o Domingo");
+						break;
+						}
+			default:{System.out.println("Error");
+						break;
+						}
+	
+		}
 	}
+	
 }
 
 		
