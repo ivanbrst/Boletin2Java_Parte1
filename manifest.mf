@@ -1,1 +1,1 @@
-Main Class: Ejercicio1
+Main-Class: Ejercicio1
